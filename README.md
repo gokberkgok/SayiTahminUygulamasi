@@ -1,7 +1,7 @@
 # SayiTahminUygulamasi
 Android için Sayı Tahmin Uygulaması
 
-♠️1-100 Arası Sayıları (Ayarlanabilir) 5 Hak içerisinde (Ayarlanabilir) tahmin etme 
+♠️1-100 Arası Sayıları (Ayarlanabilir) 5 Hak içerisinde (Ayarlanabilir) tahmin etme girdiğiniz değere göre arttır , azalt yazıları ve oyun sonu ekranında Kazandıysanız "Kazandınız" yazısı ve resim , Kaybettiyseniz "Kaybettiniz" yazısı ve resim
 
 ♠️Rastgele tutulan sayıdan küçük değer girildiyse Arttır
 
