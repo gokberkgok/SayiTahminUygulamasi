@@ -10,3 +10,5 @@ Android için Sayı Tahmin Uygulaması
 ♠️Intent ile sayfa arası veri gönderme yapılmıştır oyun sonu ekranında gelen veriye göre Kazandınız Kaybettiniz yazısı ve Resimleri
 
 ♠️Random kütüphanesi ile Rastgele 1-100 arası sayı türetme ve buna göre sayıyı tahmin ettirme
+
+♠️Kullanılan Dil : JAVA
